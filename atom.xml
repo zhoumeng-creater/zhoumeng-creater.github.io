@@ -2,15 +2,15 @@
 
 
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
-    <title type="text">Hugo 主题 MemE</title>
-    <subtitle type="html">MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。</subtitle>
-    <updated>2025-05-05T09:42:14&#43;00:00</updated>
-    <id>https://example.com/</id>
-    <link rel="alternate" type="text/html" href="https://example.com/" />
-    <link rel="self" type="application/atom&#43;xml" href="https://example.com/atom.xml" />
+    <title type="text">狂飙突进</title>
+    <subtitle type="html">狂飙突进是一个分享历史，记录时代的网站，是即属于狂飙歌，也属于大家的领地</subtitle>
+    <updated>2025-05-05T15:47:06&#43;00:00</updated>
+    <id>https://violentadvance.top/</id>
+    <link rel="alternate" type="text/html" href="https://violentadvance.top/" />
+    <link rel="self" type="application/atom&#43;xml" href="https://violentadvance.top/atom.xml" />
     <author>
             <name>reuixiy</name>
-            <uri>https://example.com/</uri>
+            <uri>https://violentadvance.top/</uri>
             
                 <email>reuixiy@gmail.com</email>
             </author>
@@ -18,9 +18,9 @@
     <generator uri="https://gohugo.io/" version="0.147.1">Hugo</generator>
         <entry>
             <title type="text">欢迎来到狂飙突进！</title>
-            <link rel="alternate" type="text/html" href="https://example.com/posts/%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E7%8B%82%E9%A3%99%E7%AA%81%E8%BF%9B/" />
-            <id>https://example.com/posts/%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E7%8B%82%E9%A3%99%E7%AA%81%E8%BF%9B/</id>
-            <updated>2025-05-05T09:42:12&#43;00:00</updated>
+            <link rel="alternate" type="text/html" href="https://violentadvance.top/posts/%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E7%8B%82%E9%A3%99%E7%AA%81%E8%BF%9B/" />
+            <id>https://violentadvance.top/posts/%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E7%8B%82%E9%A3%99%E7%AA%81%E8%BF%9B/</id>
+            <updated>2025-05-05T15:47:03&#43;00:00</updated>
             <published>2025-04-25T21:52:51&#43;08:00</published>
             <author>
                     <name>reuixiy</name>
@@ -30,7 +30,7 @@
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">
                 &lt;p&gt;道光二十二年《南京条约》既成，魏源引《周易》&amp;quot;穷则变，变则通&amp;quot;之理，作《海国图志》六十卷。其书开篇即言：&amp;quot;是书何以作？曰为以夷攻夷而作，为以夷款夷而作，为师夷长技以制夷而作。&amp;quot;然曾文正公督两江时，尝与赵烈文夜话：&amp;quot;中国之器不如人，岂独火轮舟车？&amp;quot;此语暗合《墨子·鲁问》&amp;quot;工肆之人，各从事其所能&amp;quot;之要义，实业救国思潮自此滥觞。&lt;/p&gt;
                 &lt;blockquote&gt;
-&lt;p&gt;阅读原文：&lt;a href=&#34;https://example.com/posts/%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E7%8B%82%E9%A3%99%E7%AA%81%E8%BF%9B/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://example.com/posts/%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E7%8B%82%E9%A3%99%E7%AA%81%E8%BF%9B/&lt;/a&gt;&lt;br&gt;
+&lt;p&gt;阅读原文：&lt;a href=&#34;https://violentadvance.top/posts/%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E7%8B%82%E9%A3%99%E7%AA%81%E8%BF%9B/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://violentadvance.top/posts/%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E7%8B%82%E9%A3%99%E7%AA%81%E8%BF%9B/&lt;/a&gt;&lt;br&gt;
 博客公告：博客现已开通邮件订阅，欢迎&lt;a href=&#34;https://username.substack.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;通过 Substack 订阅&lt;/a&gt;支持我的创作！&lt;/p&gt;&lt;/blockquote&gt;
             </summary>
             
@@ -44,7 +44,7 @@
 &lt;p&gt;欢迎你到来，愿你我共勉！&lt;/p&gt;
 
                     &lt;blockquote&gt;
-&lt;p&gt;阅读原文：&lt;a href=&#34;https://example.com/posts/%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E7%8B%82%E9%A3%99%E7%AA%81%E8%BF%9B/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://example.com/posts/%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E7%8B%82%E9%A3%99%E7%AA%81%E8%BF%9B/&lt;/a&gt;&lt;br&gt;
+&lt;p&gt;阅读原文：&lt;a href=&#34;https://violentadvance.top/posts/%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E7%8B%82%E9%A3%99%E7%AA%81%E8%BF%9B/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://violentadvance.top/posts/%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E7%8B%82%E9%A3%99%E7%AA%81%E8%BF%9B/&lt;/a&gt;&lt;br&gt;
 博客公告：博客现已开通邮件订阅，欢迎&lt;a href=&#34;https://username.substack.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;通过 Substack 订阅&lt;/a&gt;支持我的创作！&lt;/p&gt;&lt;/blockquote&gt;
                 </content>
             
