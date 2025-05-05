@@ -10,7 +10,7 @@
         <title>Hugo 主题 MemE</title>
         <link>https://example.com/</link>
         <description>MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。</description>
-        <generator>Hugo 0.147.0 https://gohugo.io/</generator>
+        <generator>Hugo 0.147.1 https://gohugo.io/</generator>
         
             <language>zh-CN</language>
         
@@ -23,7 +23,7 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Mon, 28 Apr 2025 11:51:30 &#43;0000</lastBuildDate>
+        <lastBuildDate>Mon, 05 May 2025 09:21:46 &#43;0000</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://example.com/rss.xml" />
         
@@ -50,6 +50,43 @@
 
                         &lt;blockquote&gt;
 &lt;p&gt;阅读原文：&lt;a href=&#34;https://example.com/posts/hello-world/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://example.com/posts/hello-world/&lt;/a&gt;&lt;br&gt;
+博客公告：博客现已开通邮件订阅，欢迎&lt;a href=&#34;https://username.substack.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;通过 Substack 订阅&lt;/a&gt;支持我的创作！&lt;/p&gt;&lt;/blockquote&gt;
+                    </description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>欢迎来到狂飙突进！</title>
+                <link>https://example.com/posts/%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E7%8B%82%E9%A3%99%E7%AA%81%E8%BF%9B/</link>
+                <guid isPermaLink="true">https://example.com/posts/%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E7%8B%82%E9%A3%99%E7%AA%81%E8%BF%9B/</guid>
+                <pubDate>Fri, 25 Apr 2025 21:52:51 &#43;0800</pubDate>
+                
+                    <author>reuixiy@gmail.com (reuixiy)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+                
+                
+                <description>
+                        &lt;p&gt;道光二十二年《南京条约》既成，魏源引《周易》&amp;quot;穷则变，变则通&amp;quot;之理，作《海国图志》六十卷。其书开篇即言：&amp;quot;是书何以作？曰为以夷攻夷而作，为以夷款夷而作，为师夷长技以制夷而作。&amp;quot;然曾文正公督两江时，尝与赵烈文夜话：&amp;quot;中国之器不如人，岂独火轮舟车？&amp;quot;此语暗合《墨子·鲁问》&amp;quot;工肆之人，各从事其所能&amp;quot;之要义，实业救国思潮自此滥觞。&lt;/p&gt;
+&lt;p&gt;张之洞《劝学篇》云：&amp;quot;旧学为体，新学为用&amp;quot;，此论实本于董仲舒&amp;quot;天不变道亦不变&amp;quot;之说。然严复译《天演论》，特引赫胥黎&amp;quot;物竞天择&amp;quot;之论驳之：&amp;quot;体用者，即一物而言之也，有牛之体则有负重之用，有马之体则有致远之用。&amp;quot;康南海公车上书，则直溯《周礼·考工记》&amp;quot;审曲面势以饬五材&amp;quot;的古训，力倡工艺改良。这种古今之辩，恰如《盐铁论》中大夫与文学之对诘，千年未绝。&lt;/p&gt;
+&lt;p&gt;孙中山先生《建国方略》引《尚书·洪范》&amp;quot;彝伦攸叙&amp;quot;四字，为新政体张目。章太炎却以《春秋繁露》&amp;quot;王者有改制之名，无易道之实&amp;quot;相质，此等争论实为荀子&amp;quot;法后王&amp;quot;与董子&amp;quot;法先王&amp;quot;之辩的延续。观北洋政府《临时约法》，其第一条&amp;quot;中华民国由中华人民组织之&amp;quot;，正暗合《吕氏春秋·贵公》&amp;quot;天下非一人之天下也，天下之天下也&amp;quot;的古义。&lt;/p&gt;
+&lt;p&gt;胡适作《文学改良刍议》，引《史记·太史公自序》&amp;quot;究天人之际，通古今之变&amp;quot;自证，实则将韩愈&amp;quot;陈言务去&amp;quot;之说推向极致。黄侃讥白话诗&amp;quot;如老妪絮语&amp;quot;，却不知《诗经·国风》&amp;quot;氓之蚩蚩，抱布贸丝&amp;quot;本是巷语街谈。蔡元培主政北大时，援引南宋书院&amp;quot;兼容并包&amp;quot;之风，使《新青年》与《国故》并陈案头，恰似东汉白虎观会议中今古文经学之争再现。&lt;/p&gt;
+&lt;p&gt;蒋介石著《中国之命运》，屡引《春秋》&amp;quot;内诸夏而外夷狄&amp;quot;之义。然毛泽东在《论持久战》中言：&amp;quot;兵民是胜利之本&amp;quot;，此语实出《司马法·仁本》&amp;quot;以战止战，虽战可也&amp;quot;。西南联大南迁途中，陈寅恪目击苗民祭祀，忆及《华阳国志》&amp;quot;夷夏交融&amp;quot;之载，遂有&amp;quot;群趋东邻受国史，神州士夫羞欲死&amp;quot;之叹，道尽文化存续之艰。&lt;/p&gt;
+&lt;p&gt;“往者不可谏，来者犹可追。”历史告诉我们许多教训，也教给我们许多智慧。希望你也能在此停留片刻，与我一起回望过去，从历史中获取一些力量，去过好眼前的生活。&lt;/p&gt;
+&lt;p&gt;欢迎你到来，愿你我共勉！&lt;/p&gt;
+
+                        &lt;blockquote&gt;
+&lt;p&gt;阅读原文：&lt;a href=&#34;https://example.com/posts/%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E7%8B%82%E9%A3%99%E7%AA%81%E8%BF%9B/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://example.com/posts/%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E7%8B%82%E9%A3%99%E7%AA%81%E8%BF%9B/&lt;/a&gt;&lt;br&gt;
 博客公告：博客现已开通邮件订阅，欢迎&lt;a href=&#34;https://username.substack.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;通过 Substack 订阅&lt;/a&gt;支持我的创作！&lt;/p&gt;&lt;/blockquote&gt;
                     </description>
                 
